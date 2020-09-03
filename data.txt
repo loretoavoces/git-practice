@@ -1,3 +1,4 @@
 Name Loreto
 Age 26
-Favourite color pink
+Favourite color pin
+..
